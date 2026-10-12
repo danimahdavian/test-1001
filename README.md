@@ -1,2 +1,1 @@
-- [ ] test 1
-- [x] test
+to print a message on standard output use `print` function
